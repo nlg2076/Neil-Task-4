@@ -1,0 +1,53 @@
+Task 4 - Create a Remote Repository
+
+Part One:
+mkdir MACHINE1
+
+
+Part Two:
+COMPLETE
+
+Part Three:
+1. git init
+2. git add README.md
+3. git commit -m "first commit"
+4. git branch -M main
+5. git remote add origin https://github.com/nlg2076/Neil-Task-4.git
+6. git push -u origin main
+
+Part Four:
+1. 
+2. 
+
+Part Five:
+1. 
+2. 
+
+Part Six:
+1. 
+2. 
+
+Part Seven:
+1. 
+2. 
+
+Part Eight:
+1. 
+2. 
+
+Part Nine:
+1. 
+2. 
+
+Part Ten:
+1. 
+2. 
+
+Part Eleven:
+1. 
+2. 
+
+Part Twelve:
+1. 
+2. 
+
